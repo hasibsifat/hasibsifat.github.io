@@ -36,3 +36,8 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+/* Remove the entire footer, including its background and border */
+.page__footer {
+  display: none !important;
+}
